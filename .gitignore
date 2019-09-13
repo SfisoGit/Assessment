@@ -1,0 +1,38 @@
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+*.ids
+*.info
+
+target/
+screenshots/
+test-output/
+
+.DS_Store
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+*.ids
+*.info
+
+target/
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# TeXlipse plugin
+.texlipse
+
+.classpath
+.project
+.checkstyle
+.pmd
+.springBeans
